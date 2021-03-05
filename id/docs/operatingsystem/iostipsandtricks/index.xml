@@ -1,6 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>iOS Tips and Tricks on ZDoc</title><link>https://kva.github.io/id/docs/operatingsystem/iostipsandtricks/</link><description>Recent content in iOS Tips and Tricks on ZDoc</description><generator>Hugo -- gohugo.io</generator><language>id</language><copyright>&amp;copy;{year}, All Rights Reserved</copyright><lastBuildDate>Tue, 28 Jan 2020 00:34:39 +0900</lastBuildDate><atom:link href="https://kva.github.io/id/docs/operatingsystem/iostipsandtricks/index.xml" rel="self" type="application/rss+xml"/><item><title>Daftar Command di Terminal iOS</title><link>https://kva.github.io/id/docs/operatingsystem/iostipsandtricks/iosterminalcommandlist/</link><pubDate>Wed, 29 Jan 2020 00:36:19 +0900</pubDate><guid>https://kva.github.io/id/docs/operatingsystem/iostipsandtricks/iosterminalcommandlist/</guid><description>Daftar Command di Terminal iOS Cara mendapatkan daftar: - Hubungkan perangkat iOS dengan komputer (ubuntu) - Jalankan perintah:
-compgen -c &amp;gt; command Daftar perintah akan disimpan dalam file bernama command
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iOS Tips and Tricks on ZDoc</title>
+    <link>https://kva.github.io/id/docs/operatingsystem/iostipsandtricks/</link>
+    <description>Recent content in iOS Tips and Tricks on ZDoc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 28 Jan 2020 00:34:39 +0900</lastBuildDate>
+    
+        <atom:link href="https://kva.github.io/id/docs/operatingsystem/iostipsandtricks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Daftar Command di Terminal iOS</title>
+        <link>https://kva.github.io/id/docs/operatingsystem/iostipsandtricks/iosterminalcommandlist/</link>
+        <pubDate>Wed, 29 Jan 2020 00:36:19 +0900</pubDate>
+        
+        <guid>https://kva.github.io/id/docs/operatingsystem/iostipsandtricks/iosterminalcommandlist/</guid>
+        <description>Daftar Command di Terminal iOS Cara mendapatkan daftar:
+ Hubungkan perangkat iOS dengan komputer (ubuntu) Jalankan perintah:  1  compgen -c &amp;gt; command   Daftar perintah akan disimpan dalam file bernama command
 Karena daftar perintahnya belum urut sesuai alfabet, maka aku urutkan dengan perintah:
 sort -k1.1,1.1 command &amp;gt; fix file yang bernama fix adalah hasil sorting daftar command sesuai alfabet.
 Berikut ini adalah daftarnya:
-! . : BTAvrcp BTAvrcp.sbin BTLEServer BTLEServer.</description></item></channel></rss>
+! . : BTAvrcp BTAvrcp.</description>
+      </item>
+      
+    
+  </channel>
+</rss>
