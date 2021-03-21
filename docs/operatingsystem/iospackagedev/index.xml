@@ -12,4 +12,9 @@ tambahkan : Depiction: https://kva.github.io/cydia/depictions/?p=com.name.packag
 ke dalam file control.</description></item><item><title>Backround Jam Tidak Bekerja</title><link>https://kva.github.io/docs/operatingsystem/iospackagedev/clockbagroundnotthemeable/</link><pubDate>Tue, 28 Jan 2020 00:36:19 +0900</pubDate><guid>https://kva.github.io/docs/operatingsystem/iospackagedev/clockbagroundnotthemeable/</guid><description>Memperbaiki Backround Icon Clock Sudah menambahkan /IconBundles/com.apple.mobiletimer-large.png tapi icon jam tidak berubah
 Non-Live Mode Non-Live mode is when the clock icon is inside a folder, in Spotlight, Siri, Anemone&amp;rsquo;s preview, etc. This non-live mode may be themed by using the Bundles/ method on the icon itself or with IconBundles.
 Background (Live Mode) The clock icon background may be themed with Anemone&amp;rsquo;s car support.
-Clock Hands &amp;amp; Dots (Live Mode) Anemone supports theming the clock hands.</description></item></channel></rss>
+Clock Hands &amp;amp; Dots (Live Mode) Anemone supports theming the clock hands.</description></item><item><title>Menyimpan IPA dari Perangkat iOS</title><link>https://kva.github.io/docs/operatingsystem/iospackagedev/saveipafromios/</link><pubDate>Tue, 28 Jan 2020 00:36:19 +0900</pubDate><guid>https://kva.github.io/docs/operatingsystem/iospackagedev/saveipafromios/</guid><description>Ada beberapa cara untuk menyimpan aplikasi dari perangkat iOS, salah satunya adalah dengan menggunakan frida-ios-dump.
+Tahapan Dalam perangkat iOS Perangkat sudah di-jailbreak Tambahkan repo https://build.frida.re di Cydia Pasang tweak Frida Dalam komputer Pasang Frida
+pip3 install frida-tools Pasang frida-ios-dump
+git clone https://github.com/AloneMonkey/frida-ios-dump.git cd frida-ios-dump pip3 install -r requirements.txt --upgrade Install usbmuxd
+brew install usbmuxd Hubungkan perangkat menggunakan ssh
+iproxy 2222 44 &amp;amp; sleep 3 ssh -p 2222 root@localhost # default password: alpine Buka terminal baru dan dapatkan .</description></item></channel></rss>
