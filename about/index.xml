@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tentang on ZDoc</title>
+    <link>https://kva.github.io/about/</link>
+    <description>Recent content in Tentang on ZDoc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 05 Mar 2021 18:12:51 +0700</lastBuildDate>
+    
+        <atom:link href="https://kva.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Dasar</title>
+        <link>https://kva.github.io/about/basic/</link>
+        <pubDate>Fri, 05 Mar 2021 18:15:46 +0700</pubDate>
+        
+        <guid>https://kva.github.io/about/basic/</guid>
+        <description>Berikut ini adalah sedikit informasi dasar:
+ Nama : Panggil saja eR TTL : Ngawi, 8 Maret 1992  </description>
+      </item>
+      
+    
+  </channel>
+</rss>
