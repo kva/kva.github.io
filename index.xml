@@ -8,7 +8,21 @@ Persiapan Hal yang dibutuhkan: 1. Aplikasi pengolah gambar seperti Inkscape 2. S
 Struktur Folder Tanpa struktur yang benar, tema tidak akan bekerja bahkan mungkin tidak akan muncul. Buat folder NamaTema.theme dengan akhiran .theme
 NamaTema.theme/ IconBundles/ Info.Plist Modifikasi Info.Plist Ubah ThemeName dengan nama tema yang kamu buat.
 &amp;lt;?xml version=&amp;quot;1.0&amp;quot; encoding=&amp;quot;UTF-8&amp;quot;?&amp;gt; &amp;lt;!</description></item><item><title>iOS 14 Bundle ID</title><link>https://kva.github.io/docs/operatingsystem/iospackagedev/ios14bundleid/</link><pubDate>Mon, 27 Jan 2020 01:36:19 +0900</pubDate><guid>https://kva.github.io/docs/operatingsystem/iospackagedev/ios14bundleid/</guid><description>Daftar aplikasi default iOS 14 beserta Bundle ID Nama Aplikasi Bundle ID Activity com.apple.Fitness App Store com.apple.AppStore Apple Store com.apple.store.Jolly Books com.apple.iBooks Calculator com.apple.calculator Calendar com.apple.mobilecal Camera com.apple.camera Clips com.apple.clips Clock com.apple.mobiletimer Compass com.apple.compass Contacts com.apple.MobileAddressBook FaceTime com.apple.facetime Files com.</description></item><item><title>Membuat Repo Cydia</title><link>https://kva.github.io/docs/operatingsystem/iospackagedev/createcydiarepo/</link><pubDate>Tue, 28 Jan 2020 00:36:19 +0900</pubDate><guid>https://kva.github.io/docs/operatingsystem/iospackagedev/createcydiarepo/</guid><description>Membuat Repo Cydia Repositori Cydia digunakan untuk banyak hal, mulai dari membuat tweak dan tema hingga hosting tweak dan tema. Aku membuat tutorial ini dan percaya bahwa kamu tiak menggunakan ini untuk membuat repo bajakan.
-Persiapan Hal yang perlu dipersiapkan: - Akun Github, dengan Github Pages yang aktif - Git - Program pengarsipan yang mendukung pengarsipan bzip2 seperti 7-Zip - Perangkat iOS yang telah di-jailbreak (kalau ada) - Teks editor seperti Notepad++ atau lainnya</description></item><item><title>Pengaturan Tema Zdoc</title><link>https://kva.github.io/docs/web/zdoc-settings/</link><pubDate>Sun, 07 Mar 2021 08:51:00 +0700</pubDate><guid>https://kva.github.io/docs/web/zdoc-settings/</guid><description>Apa yang harus diubah?
+Persiapan Hal yang perlu dipersiapkan: - Akun Github, dengan Github Pages yang aktif - Git - Program pengarsipan yang mendukung pengarsipan bzip2 seperti 7-Zip - Perangkat iOS yang telah di-jailbreak (kalau ada) - Teks editor seperti Notepad++ atau lainnya</description></item><item><title/><link>https://kva.github.io/blog/placeholder-text/</link><pubDate>Fri, 06 Aug 2021 22:57:46 +0700</pubDate><guid>https://kva.github.io/blog/placeholder-text/</guid><description>&lt;p&gt;+++
+author = &amp;ldquo;Hugo Authors&amp;rdquo;
+title = &amp;ldquo;Placeholder Text&amp;rdquo;
+date = &amp;ldquo;2019-03-09&amp;rdquo;
+#description = &amp;ldquo;Lorem Ipsum Dolor Si Amet&amp;rdquo;
+tags = [
+&amp;ldquo;markdown&amp;rdquo;,
+&amp;ldquo;text&amp;rdquo;,
+]
+image = &amp;ldquo;images/landscape.jpg&amp;rdquo;
++++&lt;/p&gt;
+&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
+pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice
+subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc
+caluere tempus&lt;/p&gt;</description></item><item><title>Pengaturan Tema Zdoc</title><link>https://kva.github.io/docs/web/zdoc-settings/</link><pubDate>Sun, 07 Mar 2021 08:51:00 +0700</pubDate><guid>https://kva.github.io/docs/web/zdoc-settings/</guid><description>Apa yang harus diubah?
 alamat file terkait</description></item><item><title>Dasar</title><link>https://kva.github.io/update/basic/</link><pubDate>Fri, 05 Mar 2021 18:15:46 +0700</pubDate><guid>https://kva.github.io/update/basic/</guid><description>Berikut ini adalah sedikit informasi dasar:
 Nama : Panggil saja eR TTL : Ngawi, 8 Maret 1992</description></item><item><title>Tentang Blog Ini</title><link>https://kva.github.io/docs/web/about-this-blog/</link><pubDate>Fri, 05 Mar 2021 05:01:59 +0700</pubDate><guid>https://kva.github.io/docs/web/about-this-blog/</guid><description>Beberapa konsep yang dapat digunakan untuk memandu pengelolaan blog ini, semoga bisa memudahkan ke depannya.
 Homepage Konten:
@@ -50,9 +64,6 @@ Give examples Installing A step by step series of examples that tell you how to 
 Dibaca: yurushite kurete, arigatou. Artinya: terima kasih telah memaafkanku.
 Penggunaan Berikut ini adalah markup-nya:
 &amp;lt;ruby&amp;gt;許&amp;lt;rp&amp;gt;(&amp;lt;/rp&amp;gt;&amp;lt;rt&amp;gt;ゆる&amp;lt;/rt&amp;gt;&amp;lt;rp&amp;gt;)&amp;lt;/rp&amp;gt;&amp;lt;ruby&amp;gt;してくれて、ありがとう。 Referensi https://discourse.gohugo.io/t/using-furigana-ruby-with-markdown/15156/3</description></item><item><title>Markdown Syntax Guide</title><link>https://kva.github.io/blog/markdown-syntax/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>https://kva.github.io/blog/markdown-syntax/</guid><description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
-pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice
-subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc
-caluere tempus&lt;/p&gt;</description></item><item><title>Placeholder Text</title><link>https://kva.github.io/blog/placeholder-text/</link><pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate><guid>https://kva.github.io/blog/placeholder-text/</guid><description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
 pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice
 subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc
 caluere tempus&lt;/p&gt;</description></item><item><title>Emoji Support</title><link>https://kva.github.io/blog/emoji-support/</link><pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate><guid>https://kva.github.io/blog/emoji-support/</guid><description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de

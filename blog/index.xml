@@ -1,7 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on eR</title><link>https://kva.github.io/blog/</link><description>Recent content in Blog on eR</description><generator>Hugo -- gohugo.io</generator><language>id</language><copyright>&amp;copy;{year}, All Rights Reserved</copyright><lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://kva.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Markdown Syntax Guide</title><link>https://kva.github.io/blog/markdown-syntax/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>https://kva.github.io/blog/markdown-syntax/</guid><description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on eR</title><link>https://kva.github.io/blog/</link><description>Recent content in Blog on eR</description><generator>Hugo -- gohugo.io</generator><language>id</language><copyright>&amp;copy;{year}, All Rights Reserved</copyright><lastBuildDate>Fri, 06 Aug 2021 22:57:46 +0700</lastBuildDate><atom:link href="https://kva.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://kva.github.io/blog/placeholder-text/</link><pubDate>Fri, 06 Aug 2021 22:57:46 +0700</pubDate><guid>https://kva.github.io/blog/placeholder-text/</guid><description>&lt;p&gt;+++
+author = &amp;ldquo;Hugo Authors&amp;rdquo;
+title = &amp;ldquo;Placeholder Text&amp;rdquo;
+date = &amp;ldquo;2019-03-09&amp;rdquo;
+#description = &amp;ldquo;Lorem Ipsum Dolor Si Amet&amp;rdquo;
+tags = [
+&amp;ldquo;markdown&amp;rdquo;,
+&amp;ldquo;text&amp;rdquo;,
+]
+image = &amp;ldquo;images/landscape.jpg&amp;rdquo;
++++&lt;/p&gt;
+&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
 pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice
 subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc
-caluere tempus&lt;/p&gt;</description></item><item><title>Placeholder Text</title><link>https://kva.github.io/blog/placeholder-text/</link><pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate><guid>https://kva.github.io/blog/placeholder-text/</guid><description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
+caluere tempus&lt;/p&gt;</description></item><item><title>Markdown Syntax Guide</title><link>https://kva.github.io/blog/markdown-syntax/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>https://kva.github.io/blog/markdown-syntax/</guid><description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
 pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice
 subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc
 caluere tempus&lt;/p&gt;</description></item><item><title>Emoji Support</title><link>https://kva.github.io/blog/emoji-support/</link><pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate><guid>https://kva.github.io/blog/emoji-support/</guid><description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
